@@ -14,15 +14,15 @@ This is a starter pack and my own personal archive on how i started my first ser
 
 ## Step 1. Install for your own distro
 
-### Arch Linux
-## tailscale ver
+## Arch Linux
+### tailscale ver
 ```sudo pacman -S navidrome tailscale```
-## cloudflare ver
+### cloudflare ver
 ```sudo pacman -S cloudflare navidrome```
 
-### Debian/Ubuntu linux
+## Debian/Ubuntu linux
 ```sudo apt install navidrome tailscale```
-## cloudflare ver
+### cloudflare ver
 ```sudo apt install navidrome cloudflare```
 
 ## Step 2. clone this repo

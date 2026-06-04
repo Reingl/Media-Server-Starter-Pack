@@ -21,6 +21,7 @@ This is a starter pack and my own personal archive on how i started my first ser
 ```sudo pacman -S cloudflare navidrome```
 
 ## Debian/Ubuntu linux
+### tailscale ver
 ```sudo apt install navidrome tailscale```
 ### cloudflare ver
 ```sudo apt install navidrome cloudflare```
